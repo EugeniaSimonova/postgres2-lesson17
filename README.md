@@ -40,6 +40,9 @@ $ curl http://localhost:8000
 
 3. Заходим через браузер в ADCM, логин/пароль по умолчанию `admin/admin` и устанавливаем [Arenadata DB](https://docs.arenadata.io/en/ADB/current/get-started/online-install/adb-install/cluster-creation.html).
 
+![Arenadata DB](https://github.com/EugeniaSimonova/postgres2-lesson17/blob/main/img1.png?raw=true)
+
+
 4. Заходим на мастер-хост и проверяем кластер:
 
 ````
